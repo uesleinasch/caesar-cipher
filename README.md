@@ -1,6 +1,6 @@
 # Caesar Cipher Encryptor
 
-Um projeto simples de criptografia que oferece três métodos diferentes para cifrar mensagens: Cifra de César, Cifra de Símbolos e Cifra Reversa.
+Um projeto simples de criptografia simples para node js puro. Podendo ser extendido com novas funcionalidade e recursos
 
 ## Métodos de Criptografia Disponíveis
 - Caesar Cipher - Desloca cada letra por um número fixo de posições no alfabeto
